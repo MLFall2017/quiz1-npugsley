@@ -19,7 +19,13 @@ data = csv.reader(open('C:\Users\pugsleno\Desktop\Pessoal Docs\UNC\MachineLearni
 
 for row in data:
     print row
-  
+
+# Specify Variables
+X = []
+Y = []
+Z = []
+
+
 data.shape    
     
 # Calculate the variance of every variable
